@@ -16,11 +16,11 @@ FINAL REVIEW
 
 Slot: TA2
 
-Faculty: Prof. Arunachalam V
+Faculty: Rajan Pandey
 
-Group 6
+Group 1
 
-17BEC0098 – Shivangi Pingale
+17BEC0417 – Kshitij Sharma
 
 17BEC0524 – Anshul Goyal
 
