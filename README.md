@@ -14,7 +14,7 @@ FINAL REVIEW
 
 **Project Title: Women Safety Band**
 
-Slot: TA2
+Slot: TA1
 
 Faculty: Rajan Pandey
 
