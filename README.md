@@ -22,13 +22,11 @@ Group 1
 
 17BEC0417 – Kshitij Sharma
 
-17BEC0524 – Anshul Goyal
+17BEC0xxx – Shashwat Mayank
 
-17BEC0562 – Snigdha Mudgal
+17BXXxxxx – Hema
 
-17BEC0659 - Muskan Chanana
-
-17BEC0735 – Shivangi Raj
+17BIS0xxx - abc
 
 **Abstract:**
 
